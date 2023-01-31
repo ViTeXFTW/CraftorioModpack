@@ -1,0 +1,7 @@
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#47F biomesoplenty:mediterranean_forest
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau

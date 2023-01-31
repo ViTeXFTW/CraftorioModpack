@@ -1,0 +1,8 @@
+{
+  "dumpMethod": false,
+  "noAggressiveProbing": false,
+  "vanillaOrder": true,
+  "exportClassNames": false,
+  "allowObfuscated": false,
+  "docsTimestamp": 0
+}

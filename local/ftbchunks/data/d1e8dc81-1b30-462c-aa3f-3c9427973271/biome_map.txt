@@ -1,0 +1,17 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#420 biomesoplenty:clover_patch
+#4F9 minecraft:dark_forest
+#010 minecraft:forest
+#67B biomesoplenty:grassland
+#4B0 minecraft:jungle
+#498 minecraft:lush_caves
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#552 biomesoplenty:old_growth_woodland
+#68B biomesoplenty:rainforest
+#698 biomesoplenty:redwood_forest
+#5FF minecraft:river
+#3AF minecraft:sparse_jungle
+#51A minecraft:stony_shore
+#7F2 biomesoplenty:woodland

@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "kubejs:andesiste_machine_casing"
+    },
+    {
+      "item": "create:whisk"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:mechanical_mixer"
+    }
+  ]
+}

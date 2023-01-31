@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "453cf396f7a74ef282a59d57a213938e"
+	name: "ViTeXFTW"
+	can_edit: true
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,9 @@
+#008 minecraft:desert
+#498 minecraft:lush_caves
+#3B0 biomesoplenty:lush_desert
+#6C1 biomesoplenty:lush_savanna
+#5FF minecraft:river
+#51A minecraft:stony_shore
+#30B biomesoplenty:volcanic_plains
+#7CC biomesoplenty:volcano
+#1C9 minecraft:wooded_badlands

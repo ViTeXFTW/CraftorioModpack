@@ -1,0 +1,9 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#02B biomesoplenty:cherry_blossom_grove
+#420 biomesoplenty:clover_patch
+#4F9 minecraft:dark_forest
+#67B biomesoplenty:grassland
+#4F1 minecraft:ocean
+#5FF minecraft:river
+#152 minecraft:windswept_forest

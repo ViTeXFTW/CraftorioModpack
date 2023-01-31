@@ -1,0 +1,10 @@
+#B76D44 create:cogwheel
+#73CA69 create:creative_motor
+#80497A minecraft:dirt
+#5F7D4C create:flywheel
+#3F84B7 minecraft:grass_block
+#B74BCC tconstruct:seared_bricks
+#A09272 tconstruct:seared_faucet
+#18A9AE tconstruct:seared_table
+#D3CCFE create:shaft
+#DE4836 create:zinc_block

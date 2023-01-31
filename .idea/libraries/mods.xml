@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="mods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mods/CTM-1.18.2-1.1.5+5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/jei-1.18.2-9.7.1.255.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/ftb-quests-forge-1802.3.13-build.175.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/BiomesOPlenty-1.18.2-16.0.0.109-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/create-1.18.2-0.5.0.h.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/ftb-teams-forge-1802.2.9-build.88.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/kubejs-forge-1802.5.5-build.567.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/ftb-essentials-1802.1.7-build.42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/badpackets-forge-0.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/TerraBlender-forge-1.18.2-1.2.0.126.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/FastLeafDecay-28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/Placebo-1.18.2-6.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/wthit-forge-4.13.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/wthitharvestability-mc1.18.2-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/flywheel-forge-1.18.2-0.6.8.a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/appleskin-forge-mc1.18.2-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/ftb-chunks-forge-1802.3.12-build.217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/constructionwand-1.18.2-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/architectury-4.10.88-forge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/createaddition-1.18.2-20221219a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/MouseTweaks-forge-mc1.18-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/ToastControl-1.18.2-6.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/AI-Improvements-1.18.2-0.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/item-filters-forge-1802.2.8-build.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/StorageDrawers-1.18.2-10.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/FastWorkbench-1.18.2-6.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/ftb-library-forge-1802.3.9-build.167.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/kubejs-create-forge-1802.2.2-build.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/ChiselsBits-forge-1.18.2-1.2.116-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/rhino-forge-1802.2.1-build.255.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

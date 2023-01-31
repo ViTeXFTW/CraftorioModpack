@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "453cf396f7a74ef282a59d57a213938e"
+	name: "ViTeXFTW"
+	can_edit: true
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: {
+		0000000000000001: 1674657543864L
+		2B6C1ED5534D80B6: 1674657543864L
+		131D35347409B692: 1674657545766L
+	}
+	completed: {
+		2B6C1ED5534D80B6: 1674657543866L
+		131D35347409B692: 1674657545766L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

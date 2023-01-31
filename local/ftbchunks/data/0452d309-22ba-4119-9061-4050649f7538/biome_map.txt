@@ -1,0 +1,12 @@
+#008 minecraft:desert
+#7F0 biomesoplenty:dryland
+#010 minecraft:forest
+#4B0 minecraft:jungle
+#3B0 biomesoplenty:lush_desert
+#552 biomesoplenty:old_growth_woodland
+#68B biomesoplenty:rainforest
+#5FF minecraft:river
+#2B7 minecraft:warm_ocean
+#5DF biomesoplenty:wasteland
+#56C biomesoplenty:wooded_wasteland
+#7F2 biomesoplenty:woodland

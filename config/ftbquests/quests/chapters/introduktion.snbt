@@ -1,0 +1,80 @@
+{
+	id: "5DFD2204C831BA56"
+	group: ""
+	order_index: 0
+	filename: "introduktion"
+	title: "Introduktion "
+	icon: "minecraft:grass_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "create:cogwheel"
+			x: 0.0d
+			y: 0.0d
+			shape: "hexagon"
+			subtitle: "Welcome to Craftorio"
+			description: [
+				"As the name suggests this is a pack that tries to create a Factorio like experience in Minecraft using the amazing mod Create."
+				""
+				"The pack has this quest line that new players can follow and which is recommended as there is a lot of recipe changes to make the pack more progressive. "
+			]
+			size: 1.5d
+			id: "13A360B48BE50758"
+			tasks: [{
+				id: "63A1F034C4F5B4F0"
+				type: "checkmark"
+				title: "Welcome To Craftorio"
+			}]
+			rewards: [{
+				id: "0F95F12793B00D00"
+				type: "item"
+				item: "minecraft:cooked_beef"
+				count: 16
+			}]
+		}
+		{
+			title: "What is this..?"
+			x: 0.0d
+			y: -2.0d
+			subtitle: "Why can't i make an iron pick..."
+			description: ["With the goal of making fluids a part of this pack, a lot of the more ‘advanced’ materials will need to be smelted in a tinkers Melter or Smeltery. Iron therefor can’t just be smelted in a furnace like normal. Create a smelting solution from tinkers to smelt your iron and create casts to mold them into useful shapes. "]
+			dependencies: ["13A360B48BE50758"]
+			id: "4B2D768D8D2E837D"
+			tasks: [{
+				id: "5F8400BC2A114D42"
+				type: "item"
+				item: "minecraft:raw_iron"
+			}]
+			rewards: [{
+				id: "4077C31A3694241D"
+				type: "item"
+				item: "minecraft:torch"
+				count: 16
+			}]
+		}
+		{
+			title: "Getting Iron"
+			icon: "tconstruct:seared_melter"
+			x: 0.0d
+			y: -4.0d
+			subtitle: "Molten Iron"
+			description: ["To create your first piece of iron equipment you will need to melt raw iron inside a Melter. The Melter requires a heater beneath it to work. This is a slow process but can be upgraded to a smeltery when you have the means of transporting lava. "]
+			dependencies: ["4B2D768D8D2E837D"]
+			id: "3864EF4D82448A79"
+			tasks: [
+				{
+					id: "2737BC809ECC5DE7"
+					type: "item"
+					item: "tconstruct:seared_melter"
+				}
+				{
+					id: "016A5E3FA0630DA4"
+					type: "item"
+					item: "tconstruct:seared_heater"
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,10 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#698 biomesoplenty:redwood_forest
+#5FF minecraft:river
+#2CF biomesoplenty:shrubland
+#51A minecraft:stony_shore

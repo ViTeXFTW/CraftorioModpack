@@ -1,0 +1,16 @@
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#735 biomesoplenty:coniferous_forest
+#232 biomesoplenty:dead_forest
+#705 minecraft:deep_frozen_ocean
+#6D4 biomesoplenty:field
+#251 biomesoplenty:forested_field
+#292 minecraft:frozen_ocean
+#3A0 minecraft:frozen_river
+#0AF biomesoplenty:glowing_grotto
+#47C biomesoplenty:muskeg
+#0D2 biomesoplenty:old_growth_dead_forest
+#5FF minecraft:river
+#72D minecraft:snowy_beach
+#4ED biomesoplenty:snowy_maple_woods
+#169 minecraft:taiga
